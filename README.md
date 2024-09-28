@@ -1,6 +1,6 @@
 # Express API Tour Project
 
-This project is a comprehensive tour application built using modern back-end technologies, including **Node.js**, **Express**, **MongoDB**, and **Mongoose**. Developed as part of an online course by Maximilian, this project serves as a real-world example of creating a fully functional RESTful API and a server-side rendered website.
+This project is a comprehensive tour application built using modern back-end technologies, including **Node.js**, **Express**, **MongoDB**, and **Mongoose**. Developed as part of an online course by Jonas Schmedtmann, this project serves as a real-world example of creating a fully functional RESTful API and a server-side rendered website.
 
 ## Features
 
